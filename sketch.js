@@ -2,10 +2,10 @@ var dog,dog2,happyDog,foodS,foodStock,bg1,bg2;
 var database;
 var gameState = "start";
 function preload(){
-  happyDog = loadImage("images/dogImg1.png");
-  dog2 = loadImage("images/dogImg.png");
-  bg1 = loadImage("images/sad dog.png");
-  bg2 = loadImage("images/happy dog.png");
+  happyDog = loadImage("dogImg1.png");
+  dog2 = loadImage("dogImg.png");
+  bg1 = loadImage("sad dog.png");
+  bg2 = loadImage("happy dog.png");
 }
 
 
